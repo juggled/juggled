@@ -12,7 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=juggled&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=juggled&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=juggled&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![juggled profile views](https://u8views.com/api/v1/github/profiles/147626662/views/day-week-month-total-count.svg)](https://u8views.com/github/juggled)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=juggled&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
